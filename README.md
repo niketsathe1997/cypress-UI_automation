@@ -55,6 +55,8 @@ $npx cypress run
  
 $npx cypress run --headed --browser firefox
 
+### NOTE - performance-test.cy.js spec will take time to run, as it adds 1000 todos
+
 ### Generate mochaReport
 
 $npx cypress run
